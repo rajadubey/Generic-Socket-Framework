@@ -1,0 +1,7 @@
+apply plugin : 'java'
+
+dependencies{
+
+compile fileTree('dir':'/uecu2019/common/build/libs/','include':'*.jar')
+
+}
